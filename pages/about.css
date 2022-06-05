@@ -1,0 +1,48 @@
+
+body{
+
+    font-family: 'Patrick Hand', cursive;
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+#content{
+    border: 1px solid green;
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1fr 1fr;
+    gap: 2rem;
+    width: 85%;
+    margin-left: 40px;
+    
+    
+
+    justify-content: center;
+    justify-items: center;
+    align-content: space-around;
+    align-items: center;
+
+}
+#content div{
+    width: 300px;
+    height: 300px;
+
+    display: block;
+    text-align: center;
+    align-items: center;
+    border-radius: 40px;
+    box-shadow: 5px 10px 10px white;
+    color: white;
+    background-image: linear-gradient(to right top, #111418, #131a1d, #152020, #1c2620, #272a20);
+
+}
+#content div h2{
+    color: #0f9b0f;
+}
