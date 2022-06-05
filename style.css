@@ -23,6 +23,9 @@ body{
     font-size: 3rem;
     
 }
+span{
+    color: #0f9b0f;
+}
 body > div{
     padding: 20px;
     text-align: center;
@@ -68,6 +71,7 @@ i{
     border-radius: 50%;
     margin: 20px;
     background: rgb(56, 55, 55);
+    cursor: pointer;
 
 }
 li{
@@ -77,6 +81,7 @@ li{
     color: #0f9b0f;
     font-size: 2rem;
     padding-right: 100px;
+    cursor: pointer;
 }
 a:hover{
     color:white;

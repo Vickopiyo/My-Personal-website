@@ -36,6 +36,7 @@ h1{
 #content div{
     width: 300px;
     height: 300px;
+    cursor: pointer;
 
     display: block;
     text-align: center;
@@ -60,6 +61,7 @@ li{
     color: white;
     font-size: 2rem;
     padding-right: 100px;
+    cursor: pointer;
 }
 a:hover{
     color: white;
