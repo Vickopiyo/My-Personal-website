@@ -10,7 +10,7 @@ body{
 
 /* styles header section */
 #header{
-    color: white;
+    color: #0f9b0f;
     letter-spacing: 1rem;
     font-size: 3rem;
     
@@ -18,7 +18,7 @@ body{
     
 }
 #headerSpan{
-    color: cornflowerblue;
+    color: #0f9b0f;
     margin-top: 20px;
     font-size: 3rem;
     
@@ -42,7 +42,7 @@ img{
 }
 fieldset{
     font-size: 2rem;
-    color: blue;
+    color: #0f9b0f;
     border: solid rgb(85, 79, 79) 10px;
     margin-left: 100px;
     height: 320px;
@@ -74,17 +74,20 @@ li{
 
     list-style-type: none;
     text-align: end;
-    color: white;
+    color: #0f9b0f;
     font-size: 2rem;
     padding-right: 100px;
 }
 a:hover{
-    color: blue;
+    color:white;
+}
+i:hover{
+    color: #0f9b0f;
 }
 
 a{
     text-decoration: none;
-    color: white;
+    color: #0f9b0f;
 }
 
  

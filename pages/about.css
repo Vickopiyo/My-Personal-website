@@ -62,10 +62,13 @@ li{
     padding-right: 100px;
 }
 a:hover{
-    color: blue;
+    color: white;
+}
+i:hover{
+    color: #0f9b0f;
 }
 
 a{
     text-decoration: none;
-    color: white;
+    color: #0f9b0f;
 }
