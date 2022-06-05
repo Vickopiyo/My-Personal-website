@@ -1,0 +1,89 @@
+
+
+
+
+
+body{
+    background-image: linear-gradient(to right top, #111418, #131a1d, #152020, #1c2620, #272a20);
+    font-family: 'Patrick Hand', cursive;
+}
+
+/* styles header section */
+#header{
+    color: white;
+    letter-spacing: 1rem;
+    font-size: 3rem;
+    
+    
+    
+}
+#headerSpan{
+    color: cornflowerblue;
+    margin-top: 20px;
+    font-size: 3rem;
+    
+}
+body > div{
+    padding: 20px;
+    text-align: center;
+}
+/* image section */
+fieldset{
+    width: 300px;
+    border: 10px solid #051937;
+    border-radius: 30px;
+    
+}
+img{
+    width: 300px;
+    height: auto;
+    filter: sepia(70%);
+    
+}
+fieldset{
+    font-size: 2rem;
+    color: blue;
+    border: solid rgb(85, 79, 79) 10px;
+    margin-left: 100px;
+    height: 320px;
+}
+/* paragragh section */
+p{
+    font-size: 2rem;
+    color: white;
+    width: 400px;
+    box-sizing: border-box;
+    margin-right: 200px;
+    text-align: block;
+}
+#content{
+    display: flex;
+    justify-content: space-around;}
+/* styles footer */
+i{
+    font-size: 2.4rem;
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+    border-radius: 50%;
+    margin: 20px;
+    background: rgb(56, 55, 55);
+
+}
+li{
+
+    list-style-type: none;
+    text-align: end;
+    color: white;
+    font-size: 2rem;
+    padding-right: 100px;
+}
+a:hover{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ 
