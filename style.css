@@ -94,5 +94,35 @@ a{
     text-decoration: none;
     color: #0f9b0f;
 }
+@media  screen and (max-width:900px) {
+    p{
+        font-size: 1rem;
+        text-align: center;
+        /* border: 1px solid red; */
+        width: 800px;
+        margin-left: 0px;
+        box-sizing: border-box;
+        padding: 20px;
+    }
+    fieldset{
+        width: 200px;
+        height: 250px;
+        /* border: 1px solid red; */
+        margin-left: 10px;
+        
+        
+    }
+    img {
+        width: 200px;
+        height: 200px;
+    }
+    #content{
+        display: flex;
+        justify-content: space-between;
+        /* border: 1px solid red; */
+    }
 
+
+    
+}
  
