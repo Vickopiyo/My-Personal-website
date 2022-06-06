@@ -2,7 +2,7 @@
 
 ## By: VICTOR OPIYO
 ## Screenshot
- ![image](./Images/me.jpg)
+ ![image ](./Images/me.jpg)
  ## Table of Content
  - [Description](#description)
  - [Design](#Design)
@@ -39,11 +39,11 @@ A user will be able to:
  * Also will need internet access
  ### Installation Process
  ****
-* Clone to our repo : git clone https://github.com/EliazarAgwaya/Lost_and_found_Recovery_System
+* Clone to our repo : git clone [https://github.com/Vickopiyo/My-Personal-website]
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
-### Live Link[](https://vickopiyo.github.io/My-Personal-website/)
+### Live Link[https://vickopiyo.github.io/My-Personal-website/]
 - Click this link to view the live application 
 ### Technology  Used
 * We used HTML for laying out the structure of the web pages
